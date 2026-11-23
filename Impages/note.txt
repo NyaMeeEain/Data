@@ -1,1 +1,4 @@
 Hello
+
+M4mE.exe https://github.com/Flangvik/ObfuscatedSharpCollection/raw/refs/heads/main/NetFramework_4.7_Any/SharpUp.exe._obf.exe audit
+
